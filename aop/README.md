@@ -1,0 +1,9 @@
+## AOP切面编程
+### 两种实现方法
+* 使用execution表达式定义切点
+* 使用自定义注解的方式定义切点
+### 参考
+* https://blog.csdn.net/j903829182/article/details/78295130
+* https://www.jianshu.com/p/60d719f123bd
+* http://blog.didispace.com/springbootaoplog/
+* https://blog.csdn.net/u011781521/article/details/80528049
